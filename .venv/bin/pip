@@ -1,4 +1,4 @@
-#!/Users/Kate/Udacity/Microservices_Part2/Neighborly_App_with_Azure_Functions/Neighborly_App_with_Azure_Functions_Project/.venv/bin/python3.9
+#!/Users/Kate/Udacity/Microservices_Part2/Neighborly_App_with_Azure_Functions/Neighborly_App_with_Azure_Functions_Project/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

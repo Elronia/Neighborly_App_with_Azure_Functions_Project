@@ -1,9 +1,12 @@
 {
   "IsEncrypted": false,
   "Values": {
-    "FUNCTIONS_WORKER_RUNTIME": "CfDJ8KvJ6DmYyMJCgkPKMHi9yggxobSNL+EiBudqjTbkN08MV8FPGx7WqKyJXi1vK5/3O48YnxQvGjJtBiH2gbzh8qUxrA2On+1JRf1xQeWwdKwATocSwT1CMT9SN2gtzXs0ZQ==",
-    "AzureWebJobs.getAdvertisements.Disabled": "false"
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=storageaccountneighborly;AccountKey=xXO0Z3MdPqhPpASJwUls5YNyWwwnzDkjIVd7uhGY6jK/d4YhIXaGNbkuK+J39pixMhbrXDh/gaq1bGyNUaPglw==",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=storageaccountneighborly;AccountKey=xXO0Z3MdPqhPpASJwUls5YNyWwwnzDkjIVd7uhGY6jK/d4YhIXaGNbkuK+J39pixMhbrXDh/gaq1bGyNUaPglw==",
+    "FUNCTIONS_EXTENSION_VERSION": "3",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "MyMongoDBConnectionString": "mongodb://cosmosdbneighborly:tOr83UukTRPFURdEsuyYfI2728nwZimB9chQjYc9KycoargHglRaxsd7nEdKB1qqI6V1OKhFbVtFV6YvpHwVOQ==@cosmosdbneighborly.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@cosmosdbneighborly@",
+    "AzureWebJobs.createAdvertisement.Disabled": "CfDJ8GF1YsmV4TNBj83n4VnZ6IWHrddJr8fbAchFp2cEWNfSeFPSXKC9x0lQ/Xi+XidJvroJkplCg9AmjSbabMXhacuX3yrkxrX2gUIsp5VSVkb+ykrlc9fG8QlIMi89EOwPaA=="
   },
-  "ConnectionStrings": {},
-  "AzureWebJobsStorage": ""
+  "ConnectionStrings": {}
 }
